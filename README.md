@@ -11,17 +11,17 @@
 
 ## 環境構築
 
-*** プロジェクトを初期化
+### プロジェクトを初期化
 ```
 npm init -y
 ```
 
-***　expressをインストール
+###　expressをインストール
 ```
 npm install express --save
 ```
 
-*** EJSインストール
+### EJSインストール
 ```
 npm install ejs
 ```
